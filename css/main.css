@@ -8,6 +8,7 @@
   --highlight: var(--text-color);
   --background: #000900;
   --text-color: #4AEF98;
+  --notification: #0
   --close-button: var(--dnd-color) !important;
   --online-color: #39ff14;
   --afk-color: #FFFF33;
@@ -45,7 +46,7 @@
   --text-muted: var(--text-color);
   --header-primary: var(--text-color);
   --header-secondary: var(--text-color);
-  --channels-default:var(--text-color);
+  --channels-default:var(--notifcation);
   --interactive-normal: var(--text-color);
   --channeltextarea-background: var(--background);
   --textbox-markdown-syntax: var(--background);
